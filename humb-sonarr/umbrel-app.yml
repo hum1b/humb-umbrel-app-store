@@ -3,7 +3,7 @@ id: humb-sonarr
 category: media
 name: Sonarr-Animes
 version: "3.0.9"
-tagline: Smart PVR for newsgroup and bittorrent users
+tagline: Custom version control only anime downloads and catalog
 description: >-
   Custom version control only anime downloads and catalog
 developer: Sonarr (Edited by Humb)
