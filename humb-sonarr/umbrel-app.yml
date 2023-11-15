@@ -3,7 +3,7 @@ id: humb-sonarr
 category: media
 name: Sonarr-Animes
 version: "3.0.9"
-tagline: Custom version control only anime downloads and catalog
+tagline: Custom version to control only anime downloads and catalog
 description: >-
   Custom version control only anime downloads and catalog
 developer: Sonarr (Edited by Humb)
